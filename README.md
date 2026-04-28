@@ -30,7 +30,7 @@ friend: <a href="https://github.com/danidevlab">danidevlab</a>
   <li>YML</li>
   <li>SQL</li>
 </ul>
-
+<img src="github-readme-stats.vercel.app/api/top-langs/?username=Grade5-CodeDev&langs_count=20">
 ## CONTACT
 > <a href="https://codedev.p-e.kr">This website</a>. this is running my server, and my server is only one(and this is no server. this is my laptop computor). so, this web is not good choice(until i buy server)
 > issue this repository. good choice. <a href="https://github.com/Grade5-CodeDev/Grade5-CodeDev/issues">GO TO ISSUE</a>
